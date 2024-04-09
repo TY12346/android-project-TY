@@ -7,7 +7,8 @@
         android:title="@string/quizzes_menu_item" />
     <item
         android:id="@+id/testMenuItem"
-        android:title="Item" />
+        android:icon="@drawable/other_users"
+        android:title="Leaderboards" />
     <item
         android:id="@+id/notifications"
         android:icon="@android:drawable/sym_action_email"
